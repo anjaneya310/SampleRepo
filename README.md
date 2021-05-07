@@ -1,2 +1,2 @@
 # SampleRepo
-This is a sample repo to learn the basics.
+This is a sample repo to learn the basics of git.
